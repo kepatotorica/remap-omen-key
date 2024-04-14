@@ -10,7 +10,7 @@ This branch edits the registry to make the driver start the simulating program. 
 
 ## Guide
 
-First, the driver "HP System Event Utility" (with `HPMSGSVC.exe`) must be installed.
+First, the driver ["HP System Event Utility"](https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101543.exe) (with `HPMSGSVC.exe`) must be installed.
 
 Download [send-home.exe](https://github.com/jingyu9575/remap-omen-key/releases) and put it in a fixed location.
 
